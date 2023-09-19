@@ -1,4 +1,4 @@
-![Julian Zulfikar - Full-Stack Developer](https://github.com/julian-z/julian-z/blob/main/github.gif)
+![Julian Zulfikar - Full-Stack Developer](https://github.com/julian-z/julian-z/blob/main/github_resized.gif)
 
 ## 👋 Hello! I am Julian Zulfikar, a Computer Science student at UC Irvine.
 
