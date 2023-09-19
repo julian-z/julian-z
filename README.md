@@ -1,4 +1,4 @@
-### 👋 Hello! I am Julian Zulfikar, a Computer Science student at UC Irvine.
+# 👋 Hello! I am Julian Zulfikar, a Computer Science student at UC Irvine.
 
 I love everything revolving around computer science and technology in general. As an aspiring Software Engineer, my main driving factor is the idea of being able to create programs that will be utilized by others, especially ones that will assist in solving problems.
 
