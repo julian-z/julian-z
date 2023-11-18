@@ -6,7 +6,7 @@ I love everything revolving around computer science and technology in general. A
 
 ### 🖥 Previous Projects
 - [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers questions based on the information gathered.
-- [ZotServices](https://github.com/julian-z/ZotServices): A platform for UCI students to post their side hustles and services for others!
+- [ZotServices](https://github.com/julian-z/ZotServices): A platform for UCI students to post their side hustles and services for others.
 - [AntCheck](https://github.com/julian-z/AntCheck): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
 - [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A spin-off of the original Minesweeper puzzle game, built with extra game modes designed to improve the users' pattern recognition skills.
 
