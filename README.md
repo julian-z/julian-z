@@ -6,11 +6,16 @@ I love everything revolving around computer science and technology in general. A
 
 ### 🖥 Previous Projects
 - [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers questions based on the information gathered.
-- [ZotPlanner](https://github.com/julian-z/ZotPlanner): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
+- [ZotServices](https://github.com/julian-z/ZotServices): A platform for UCI students to post their side hustles and services for others!
+- [AntCheck](https://github.com/julian-z/AntCheck): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
 - [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A spin-off of the original Minesweeper puzzle game, built with extra game modes designed to improve the users' pattern recognition skills.
 
+### 💼 Experience
+- Incoming SWE Intern @ Cisco (June 2024 - September 2024)
+- SWE Intern @ GBCS Group (November 2023 - February 2024)
+
 ### 📫 Let's Get in Touch!
-[LinkedIn](https://www.linkedin.com/in/julian-z/) | [E-mail](mailto:jzulfika@ics.uci.edu) | [Resume](https://drive.google.com/file/d/1OBjO_YF-hC_gxVhjqeUUkWmzgE9xrwGz/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/julian-z/) | [E-mail](mailto:jzulfika@ics.uci.edu)
 
 <!--
 **julian-z/julian-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
