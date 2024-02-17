@@ -12,7 +12,7 @@ I love everything revolving around computer science and technology in general. A
 
 ### 💼 Experience
 - Incoming SWE Intern @ Cisco (June 2024 - September 2024)
-- SWE Intern @ GBCS Group (November 2023 - February 2024)
+- SDE Intern @ GBCS Group (November 2023 - February 2024)
 
 ### 📫 Let's Get in Touch!
 [LinkedIn](https://www.linkedin.com/in/julian-z/) | [E-mail](mailto:jzulfika@ics.uci.edu)
