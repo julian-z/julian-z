@@ -1,4 +1,4 @@
-![Julian Zulfikar - Full-Stack Developer](https://github.com/julian-z/julian-z/blob/main/github_more_movement.gif)
+![Julian Zulfikar - Full-Stack Developer](https://github.com/julian-z/julian-z/blob/main/github_new.gif)
 
 ## 👋 Hello! I am Julian Zulfikar, a Computer Science student at UC Irvine.
 
@@ -7,6 +7,7 @@ I love everything revolving around computer science and technology in general. A
 ### 🖥 Previous Projects
 - [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers questions based on the information gathered.
 - [ZotServices](https://github.com/julian-z/ZotServices): An online marketplace platform for UCI students to post their side hustles and services for those in need.
+- [SwipeCS](https://www.youtube.com/watch?v=16wEb-0WYdI): A Tinder-like web application that allows students to swipe through UCI CS courses solely using hand gestures.
 - [AntCheck](https://github.com/julian-z/AntCheck): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
 - [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A spin-off of the original Minesweeper puzzle game, built with extra game modes designed to improve the users' pattern recognition skills.
 
