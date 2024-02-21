@@ -5,15 +5,20 @@
 I love everything revolving around computer science and technology in general. As an aspiring Software Engineer, my main driving factor is the idea of being able to create programs that will be utilized by others, especially ones that will assist in solving problems.
 
 ### 🖥 Previous Projects
-- [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers questions based on the information gathered.
+- [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers queries based on its training.
 - [ZotServices](https://github.com/julian-z/ZotServices): An online marketplace platform for UCI students to post their side hustles and services for those in need.
 - [SwipeCS](https://www.youtube.com/watch?v=16wEb-0WYdI): A Tinder-like web application that allows students to swipe through UCI CS courses solely using hand gestures.
 - [AntCheck](https://github.com/julian-z/AntCheck): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
-- [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A spin-off of the original Minesweeper puzzle game, built with extra game modes designed to improve the users' pattern recognition skills.
+- [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A Minesweeper spin-off built with extra game modes designed to improve the users' pattern recognition skills.
+
+### 🖥️ Tech Stack
+- Python, Java, HTML/CSS, JavaScript, TypeScript, C/C++
+- React, Angular, Ionic, Django, Flask
+- Microsoft Azure, Postman, SQL
 
 ### 💼 Experience
-- Incoming SWE Intern @ Cisco (June 2024 - September 2024)
-- SDE Intern @ GBCS Group (November 2023 - February 2024)
+- Incoming Software Engineer Intern @ Cisco (June 2024 - September 2024)
+- Software Developer Intern @ GBCS Group (November 2023 - February 2024)
 
 ### 📫 Let's Get in Touch!
 [LinkedIn](https://www.linkedin.com/in/julian-z/) | [E-mail](mailto:jzulfika@ics.uci.edu)
