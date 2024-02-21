@@ -11,7 +11,7 @@ I love everything revolving around computer science and technology in general. A
 - [AntCheck](https://github.com/julian-z/AntCheck): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
 - [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A Minesweeper spin-off built with extra game modes designed to improve the users' pattern recognition skills.
 
-### 🖥️ Tech Stack
+### 🛠️ Tech Stack
 - Python, Java, HTML/CSS, JavaScript, TypeScript, C/C++
 - React, Angular, Ionic, Django, Flask
 - Microsoft Azure, Postman, SQL
