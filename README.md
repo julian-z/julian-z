@@ -7,17 +7,17 @@ I love everything revolving around computer science and technology in general. A
 ### 🖥 Previous Projects
 - [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers queries based on its training.
 - [ZotServices](https://github.com/julian-z/ZotServices): An online marketplace platform for UCI students to post their side hustles and services for those in need.
-- [SwipeCS](https://www.youtube.com/watch?v=16wEb-0WYdI): A Tinder-like web application that allows students to swipe through UCI CS courses solely using hand gestures.
+- [SwipeCS](https://www.youtube.com/watch?v=16wEb-0WYdI): An accessible web application that allows students to swipe through UCI CS courses solely using hand gestures.
 - [AntCheck](https://github.com/julian-z/AntCheck): A UCI course search engine and a prerequisite verifier that generates the correct order to take a given set of classes.
 - [Minesweeper Lab](https://github.com/julian-z/Minesweeper-Lab): A Minesweeper spin-off built with extra game modes designed to improve the users' pattern recognition skills.
 
 ### 🛠️ Tech Stack
 - Python, Java, HTML/CSS, JavaScript, TypeScript, C/C++
-- React, Angular, Ionic, Django, Flask
-- Microsoft Azure, Postman, SQL
+- React, Angular, React Native, Ionic, Express.js, Django, Flask
+- PostgreSQL, MySQL, Docker, Kubernetes, Amazon Web Services (AWS), Microsoft Azure, Postman
 
 ### 💼 Experience
-- Incoming Software Engineer Intern @ Cisco (June 2024 - September 2024)
+- Software Engineer Intern @ Cisco (June 2024 - September 2024)
 - Software Developer Intern @ GBCS Group (November 2023 - February 2024)
 
 ### 📫 Let's Get in Touch!
