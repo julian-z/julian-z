@@ -17,6 +17,7 @@ I love everything revolving around computer science and technology in general. A
 - PostgreSQL, MySQL, Docker, Kubernetes, Amazon Web Services (AWS), Microsoft Azure, Postman
 
 ### 💼 Experience
+- Incoming Software Engineer @ Cisco (July 2025)
 - Software Engineer Intern @ Cisco (June 2024 - September 2024)
 - Software Developer Intern @ GBCS Group (November 2023 - February 2024)
 
