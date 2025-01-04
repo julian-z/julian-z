@@ -16,8 +16,10 @@ I love everything revolving around computer science and technology in general. A
 
 ### 🛠️ Tech Stack
 - Python, Java, JavaScript, TypeScript, C/C++
-- React, Angular, React Native, Ionic, Express.js, Django, Flask
-- PostgreSQL, MySQL, Docker, Kubernetes, Amazon Web Services (AWS), Microsoft Azure, Postman
+- React, Next.js, Angular, React Native, Ionic
+- Express.js, FastAPI, Django, Flask
+- Docker, Kubernetes, Amazon Web Services (AWS), Microsoft Azure, DigitalOcean
+- PostgreSQL, MySQL
 
 ### 💼 Experience
 - Incoming Software Engineer @ Cisco (July 2025)
