@@ -5,7 +5,7 @@
 I love everything revolving around computer science and technology in general. As an aspiring Software Engineer, my main driving factor is the idea of being able to create programs that will be utilized by others, especially ones that will assist in solving problems.
 
 ### 💻 Currently Building
-- [Leksa](https://instagram.com/leksa.ai): A college-exclusive dining discovery mobile application.
+- [Leksa](https://leksa.io): A college-exclusive dining discovery mobile application.
 
 ### ⏱️ Previous Projects
 - [QuickYelp](https://github.com/julian-z/QuickYelp): An AI chatbot that scans the reviews of a given Yelp business and answers queries based on its training.
